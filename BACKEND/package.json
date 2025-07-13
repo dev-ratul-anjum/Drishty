@@ -1,0 +1,26 @@
+{
+  "name": "drishty-backend",
+  "version": "1.0.0",
+  "description": "a mern stack instagram clone project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-ratul-anjum/Drishty.git"
+  },
+  "keywords": [
+    "Clone",
+    "Instagram",
+    "Social",
+    "Media",
+    "App"
+  ],
+  "author": "Mobarok,Ikram,Nazim,Ratul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-ratul-anjum/Drishty/issues"
+  },
+  "homepage": "https://github.com/dev-ratul-anjum/Drishty#readme"
+}
